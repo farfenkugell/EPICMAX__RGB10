@@ -2,11 +2,8 @@
 Modified version to fit better on rgb10 non max version.
 Might include new art and other tweaks
 
-# es-theme-EPICMAX CODY
-emulation station theme fit for powkiddy RGB10MAX
-fork of the EpicNoir modified to fit the powkiddy RGB10MAX
-
-Thanks to Chicuelo and Nick L (c64-dev) for the EpicNoir .
+Link to theme that was used to create/modify it:
+https://github.com/CodyV59/es-theme-EPICMAX-CODY-RGB10MAX
 
 ### License
 
