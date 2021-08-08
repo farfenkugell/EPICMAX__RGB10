@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/smt4uKX.jpg"></a>
+
 # EPICMAX__RGB10
 Modified version to fit better on rgb10 non max version.
 Might include new art and other tweaks
@@ -25,3 +27,5 @@ PROHIBITED:
 
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
+
+<img src="https://i.imgur.com/5XLxYz0.jpg"></a>
