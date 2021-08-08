@@ -25,17 +25,3 @@ PROHIBITED:
 
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
-
-###### [back to top](https://github.com/CodyV59/)
-
----
-
-### Features
-
-* Dark and clean interface
-* New high quality wallpapers for all systems
-* Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
-* Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
-* Support for screenshots/boxart and/or video.
-
-###### [back to top](https://github.com/CodyV59/)
