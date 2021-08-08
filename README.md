@@ -1,3 +1,7 @@
+#EPICMAX__RGB10
+Modified version to fit better on rgb10 non max version.
+Might include new art and other tweaks
+
 # es-theme-EPICMAX CODY
 emulation station theme fit for powkiddy RGB10MAX
 fork of the EpicNoir modified to fit the powkiddy RGB10MAX
