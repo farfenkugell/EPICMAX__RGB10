@@ -1,12 +1,11 @@
+<img src="https://i.imgur.com/smt4uKX.jpg"></a>
+
 # EPICMAX__RGB10
 Modified version to fit better on rgb10 non max version.
 Might include new art and other tweaks
 
-# es-theme-EPICMAX CODY
-emulation station theme fit for powkiddy RGB10MAX
-fork of the EpicNoir modified to fit the powkiddy RGB10MAX
-
-Thanks to Chicuelo and Nick L (c64-dev) for the EpicNoir .
+Link to theme that was used to create/modify it:
+https://github.com/CodyV59/es-theme-EPICMAX-CODY-RGB10MAX
 
 ### License
 
@@ -29,16 +28,4 @@ PROHIBITED:
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
-###### [back to top](https://github.com/CodyV59/)
-
----
-
-### Features
-
-* Dark and clean interface
-* New high quality wallpapers for all systems
-* Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
-* Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
-* Support for screenshots/boxart and/or video.
-
-###### [back to top](https://github.com/CodyV59/)
+<img src="https://i.imgur.com/5XLxYz0.jpg"></a>
