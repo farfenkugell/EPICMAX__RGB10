@@ -4,13 +4,13 @@
 
 <view name="basic, detailed, video, grid">
   <text name="nameLabel" extra="true">
-    <text>Famicom Disk System</text>
+    <text>FDS</text>
   </text>
 </view>    
 
 <view name="system">
   <text name="sys_line1" extra="true">
-    <text>Famicom Disk</text>
+    <text>FDS</text>
 
   </text>
   <text name="sys_line2" extra="true">
