@@ -26,14 +26,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </subset>
 
 <view name="system">
-  <!--  <image name="background" extra="true">
-        <path>./_art/var/dot.png</path>
-        <tile>false</tile>
-        <size>1 1</size>
-        <pos>0 0</pos>
-        <origin>0 0</origin>
-    </image>
-  -->
       <sound name="bgsound">
          <!-- try ogg -->
          <path>./_art/assets/sounds/${system.theme}.ogg</path>
@@ -99,15 +91,15 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 
 
-  <!--  <image name="buttonA" extra="true">
+  <image name="buttonA" extra="true">
 		<path>./_art/buttonA.png</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.003 0.60</pos>
+        <pos>0.27 0.77</pos>
         <size>0 0</size>
 	<color>ff7f32</color>
     </image>
-   -->
+ 
     <text name="shortdescription" extra="true">
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
@@ -126,7 +118,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <forceUppercase>1</forceUppercase>
         <color>FFFFFF</color>
         <origin>0 0</origin>
-        <pos>0.55 0.9</pos>
+        <pos>0.55 0.85</pos>
         <size>0.400 0.048</size>
         <fontSize>0.063</fontSize>
     </text>
@@ -207,17 +199,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <size>0.65 0.08</size>
         <zIndex>32</zIndex>
     </text>
-
-<!--    <text name="md_description">
-        <fontPath>./_art/Acre.otf</fontPath>
-	    <color>ffffff</color>
-        <fontSize>0.026</fontSize>
-	    <alignment>left</alignment>
-        <forceUppercase>0</forceUppercase>
-        <lineSpacing>1</lineSpacing>
-	    <pos>0.339 0.75</pos>
-	    <size>0.66 0.17</size>
-    </text> -->
     
 <!-- Define metadata -->
 
@@ -339,8 +320,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 <rotation>0</rotation>
 <glowColor>ff360033</glowColor>
 <glowSize>3</glowSize>
-
-
 
     </text>
     <batteryIndicator name="batteryIndicator">
