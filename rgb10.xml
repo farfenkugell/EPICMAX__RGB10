@@ -95,8 +95,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 		<path>./_art/buttonA.png</path>
         <tile>false</tile>
         <origin>0 0</origin>
-        <pos>0.27 0.77</pos>
-        <size>0 0</size>
+        <pos>0.29 0.80</pos>
+        <size>0.25 0.15</size>
 	<color>ff7f32</color>
     </image>
  
@@ -313,10 +313,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
       <fontPath>./_art/BebasNeue.otf</fontPath>
       <fontSize>0.06</fontSize>
       <origin>1 1</origin>
-      <pos>1.22 1.11</pos>
-      <size>0.3 0.3</size>
-      <alignment>left</alignment>
-      <verticalAlignment>center</verticalAlignment>
+      <pos>0.45 0.97</pos>
+      <size>0.3 0.3</size>  
 <rotation>0</rotation>
 <glowColor>ff360033</glowColor>
 <glowSize>3</glowSize>

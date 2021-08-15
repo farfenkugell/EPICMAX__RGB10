@@ -4,25 +4,22 @@
 
 <view name="basic, detailed, video, grid">
     <text name="nameLabel" extra="true">
-    <text>Options</text>
+    <text>ALG</text>
   </text>
 </view>    
 
 <view name="system">
-  <text name="sys_line1" extra="true">
-    <text>ArkOS</text>
-
-  </text> 
-
+<text name="sys_line1" extra="true">
+    <text>American Laser Games</text>
+	</text>
   <text name="sys_line2" extra="true">
-    <text>Options</text>
-
-  </text> 
+    <text>ALG</text>
+  </text>    
   <text name="shortdescription" extra="true">
-   <text>System Configuration</text>
+   <text>1980  ·  32-bit Console</text>
   </text>
   <text name="longdescription" extra="true">
-   <text>Configure System hardware, Bluetooth & Wi-Fi connections. Install updates, addons and visual themes</text>
+   <text>American Laser Games was a company based in Albuquerque, New Mexico that created numerous light gun laserdisc video games featuring live action full motion video</text>
   </text>
  </view>
 </theme>
