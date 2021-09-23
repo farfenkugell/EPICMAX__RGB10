@@ -2,7 +2,7 @@
 <formatVersion>7</formatVersion>
 <include>./../theme.xml</include>
 
-<view name="basic, detailed, video, grid">
+<view name="basic, detailed, video">
     <text name="nameLabel" extra="true">
     <text>Kodi</text>
   </text>
