@@ -97,7 +97,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <origin>0 0</origin>
         <pos>0.29 0.80</pos>
         <size>0.25 0.15</size>
-	<color>ff7f32</color>
+	    <color>ff7f32</color>
     </image>
  
     <text name="shortdescription" extra="true">
@@ -312,13 +312,12 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
       <color>00000099</color>
       <fontPath>./_art/BebasNeue.otf</fontPath>
       <fontSize>0.06</fontSize>
-      <origin>1 1</origin>
-      <pos>0.45 0.97</pos>
+      <pos>0.87 0.3</pos>
       <size>0.3 0.3</size>  
-<rotation>0</rotation>
-<glowColor>ff360033</glowColor>
-<glowSize>3</glowSize>
-
+      <rotation>0</rotation>
+      <glowColor>ff360033</glowColor>
+      <glowSize>3</glowSize>
+      <zIndex>29</zIndex>
     </text>
     <batteryIndicator name="batteryIndicator">
       <incharge>./art/battery/incharge.svg</incharge>
@@ -348,6 +347,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
       <inactive>./_art/assets/textinput_inactive.png</inactive>
       <active>./_art/assets/textinput_active.png</active>
     </menuTextEdit>
+
   </view>
 	
 </theme>
